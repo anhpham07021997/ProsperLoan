@@ -1,9 +1,9 @@
 # ProsperLoan Data
-###This project is part of Udacity Data Nanodegree program
+### This project is part of Udacity Data Nanodegree program
 
 
 
-##Dataset
+### Dataset
 The Dataset contains 113,917 loans, each loan has information on each borrower's annual percentage rate (APR), 
 status, borrowed amount, debt, etc. Variables with missing values were dropped to make the Dataset more accurate. 
 Outliers were also removed to provide more reliable Data. 
@@ -17,7 +17,7 @@ import numpy as np
 %matplotlib inline
 
 
-##Questions
+## Questions
 
 ### I)Univariate Exploration
 In this section, investigate distributions of individual variables. 
