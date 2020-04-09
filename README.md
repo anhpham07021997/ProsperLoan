@@ -23,13 +23,16 @@ import numpy as np
 In this section, investigate distributions of individual variables. 
 If you see unusual points or outliers, take a deeper look to clean things up and prepare yourself to look at relationships 
 between variables.
-**1)What factors affect a loan’s outcome status?**
+
+**-1)What factors affect a loan’s outcome status?**
+
 -Choose 4 significant variables of income to plot which is Current , Completed,Chargedoff,Defaulted to plot bivate charts
 
 ### II)Bivariate Exploration
 In this section, investigate relationships between pairs of variables in your data. Make sure the variables 
 that you cover here have been introduced in some fashion in the previous section (univariate exploration).
-**2)Are there differences between loans depending on how large the original loan amount was?**
+
+**-2)Are there differences between loans depending on how large the original loan amount was?**
 
 -Completed loan has the most investor and ouliers , while people who are in debt have the lowest invest,
 -Most of people in debt and people who past the dueday pay more often than others
@@ -37,7 +40,8 @@ that you cover here have been introduced in some fashion in the previous section
 -People who have high income range would around '25k- 49k' dollar rank the 1st in complete and charged off the debt, 
 most of current loan is owned by the middle income '50k - 79k' dollar and default group most of them doesn't show income
 
-**3)What affects the borrower’s APR or interest rate?**
+**-3)What affects the borrower’s APR or interest rate?**
+
 APR la interestrate + origination fee adn docuemtnation fee, provide yearly rate
 people  are curently in debt have really huge amount of oringial Loan amount
 Charged off customers adn pastdue customers have the highest BorrowerAPR rate
